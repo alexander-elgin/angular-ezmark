@@ -1,0 +1,31 @@
+{
+  "name": "angular-ezmark",
+  "version": "1.0.0",
+  "homepage": "https://github.com/alexander-elgin/angular-ezmark",
+  "authors": [
+    "Alex Elgin <sascha.elgin@gmail.com>"
+  ],
+  "description": "Angular adapter for jQuery ezMark plugin",
+  "main": "ezmark.js",
+  "moduleType": [
+    "globals"
+  ],
+  "keywords": [
+    "ezmark",
+    "jquery",
+    "plugin",
+    "adapter"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "ezMark": "*",
+    "jquery": "*"
+  }
+}
